@@ -7,6 +7,7 @@ Solving LeetCode problems daily in python, progressing from easy to hard -- trac
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -18,6 +19,7 @@ Solving LeetCode problems daily in python, progressing from easy to hard -- trac
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -28,4 +30,8 @@ Solving LeetCode problems daily in python, progressing from easy to hard -- trac
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

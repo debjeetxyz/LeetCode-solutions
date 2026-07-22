@@ -33,5 +33,14 @@ Solving LeetCode problems daily in python, progressing from easy to hard -- trac
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0189-rotate-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

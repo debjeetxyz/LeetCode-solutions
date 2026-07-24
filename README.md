@@ -41,6 +41,7 @@ Solving LeetCode problems daily in python, progressing from easy to hard -- trac
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming

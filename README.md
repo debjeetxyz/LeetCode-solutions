@@ -7,6 +7,7 @@ Solving LeetCode problems daily in python, progressing from easy to hard -- trac
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0217-contains-duplicate) |
@@ -20,12 +21,14 @@ Solving LeetCode problems daily in python, progressing from easy to hard -- trac
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0242-valid-anagram) |
 ## String

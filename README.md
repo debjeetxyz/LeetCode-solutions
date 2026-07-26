@@ -15,12 +15,14 @@ Solving LeetCode problems daily in python, progressing from easy to hard -- trac
 | [0217-contains-duplicate](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [3866-first-unique-even-element](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0242-valid-anagram) |
+| [3866-first-unique-even-element](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +67,8 @@ Solving LeetCode problems daily in python, progressing from easy to hard -- trac
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Counting
+|  |
+| ------- |
+| [3866-first-unique-even-element](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/3866-first-unique-even-element) |
 <!---LeetCode Topics End-->

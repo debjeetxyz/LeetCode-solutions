@@ -42,6 +42,7 @@ Solving LeetCode problems daily in python, progressing from easy to hard -- trac
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0006-zigzag-conversion) |
 | [0058-length-of-last-word](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0242-valid-anagram) |
 ## Math

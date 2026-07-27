@@ -33,6 +33,7 @@ Solving LeetCode problems daily in python, progressing from easy to hard -- trac
 | ------- |
 | [0015-3sum](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0189-rotate-array) |
@@ -51,6 +52,7 @@ Solving LeetCode problems daily in python, progressing from easy to hard -- trac
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0006-zigzag-conversion) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0242-valid-anagram) |
 ## Math
@@ -82,4 +84,8 @@ Solving LeetCode problems daily in python, progressing from easy to hard -- trac
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

@@ -16,6 +16,7 @@ Solving LeetCode problems daily in python, progressing from easy to hard -- trac
 | [0283-move-zeroes](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [3866-first-unique-even-element](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/3866-first-unique-even-element) |
 ## Hash Table
@@ -45,6 +46,7 @@ Solving LeetCode problems daily in python, progressing from easy to hard -- trac
 | [0217-contains-duplicate](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -76,4 +78,8 @@ Solving LeetCode problems daily in python, progressing from easy to hard -- trac
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [3866-first-unique-even-element](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/3866-first-unique-even-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->

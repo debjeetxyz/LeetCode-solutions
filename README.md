@@ -7,6 +7,7 @@ Solving LeetCode problems daily in python, progressing from easy to hard -- trac
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0075-sort-colors) |
@@ -52,6 +53,7 @@ Solving LeetCode problems daily in python, progressing from easy to hard -- trac
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0242-valid-anagram) |
@@ -88,4 +90,8 @@ Solving LeetCode problems daily in python, progressing from easy to hard -- trac
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/debjeetxyz/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
